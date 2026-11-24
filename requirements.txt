@@ -1,0 +1,15 @@
+# Install PyTorch + TorchAudio separately from the official PyTorch selector.
+# This avoids installing an incompatible CPU/CUDA build.
+
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+librosa
+soundfile
+lime
+jupyterlab
+ipykernel
+tqdm
